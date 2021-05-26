@@ -2,11 +2,6 @@ import React, { Component } from 'react'
 
 class Showstart extends Component {
 
-    constructor() {
-        super()
-
-    } 
-
     render() {
         return (
            <div>
