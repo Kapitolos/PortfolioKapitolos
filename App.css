@@ -584,10 +584,10 @@ margin-right: 3%;
 
 @media screen and (max-width: 400px) {
   .intro {
-    margin-top: 50%;
+    margin-top: 43%;
     margin-left: 2%;
     width: 90%;
-    height: 50%;
+    height: 53%;
   }
   #contactinfo {
     margin-top: 50%;
@@ -618,6 +618,7 @@ margin-right: 3%;
   }
   .worksbutton {
     margin-top: 145%;
+    margin-left: 4%;
     height: 10%;
     width: 25%;
     font-size: 15pt;
