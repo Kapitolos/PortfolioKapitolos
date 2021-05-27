@@ -669,6 +669,10 @@ margin-right: 3%;
   .showbox{
     font-size: 7pt;
   }
+  .langlist {
+    margin-top: 2%;
+  }
+
   @keyframes intro {
     from {margin-left: 100%;}
     to {margin-left:2%;}
