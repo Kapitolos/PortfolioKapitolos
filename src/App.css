@@ -584,10 +584,10 @@ margin-right: 3%;
 
 @media screen and (max-width: 400px) {
   .intro {
-    margin-top: 50%;
+    margin-top: 43%;
     margin-left: 2%;
     width: 90%;
-    height: 50%;
+    height: 53%;
   }
   #contactinfo {
     margin-top: 50%;
